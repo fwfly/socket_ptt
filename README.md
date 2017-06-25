@@ -1,2 +1,5 @@
 # socket_ptt
-Using socket to contol ptt bbs
+To Understand socket works.
+I'm trying to implement a ptt client without telnet lib
+
+This program only uses socket. 
